@@ -1,2 +1,2 @@
 # DSA
-A simple dsa practice repo 
+A simple practice repository for Data Structures and Algorithms in Java and Kotlin.

@@ -1,0 +1,8 @@
+// Kotlin built files
+*.jar
+
+// Java Class files
+*.class
+
+// VSCode specific files
+/.vscode
